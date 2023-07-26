@@ -1,0 +1,17 @@
+p{
+    background-color: rgba(121, 162, 96, 0.4);
+    color: rgb(9, 13, 16);
+
+ }
+ #p2{
+     background-color: aquamarine;
+     color: black;
+ }
+ #p3{
+     background-color: rgb(203, 208, 120);
+     color: rgb(14, 18, 18);
+ }
+ .class1 #inP{
+    background-color: antiquewhite;
+    color: black;
+ }
